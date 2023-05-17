@@ -15,7 +15,7 @@
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=yamilezequiel&label=Profile%20views&color=0e75b6&style=flat" alt="yamilezequiel" /> </p>
   
-  <p>Main current technologies</p>
+  ## Main current technologies
   
 <div align="center">
 👉 Angular - Material <br>
