@@ -2,6 +2,9 @@
   
 <h1 align="center">Hi 👋, I'm Yamil</h1>
   
+  <a href="https://www.linkedin.com/in/yamil-lazzari/" target="_blank">
+  <img src="https://camo.githubusercontent.com/9af358eb83716c4a0f6fe4030afe1b87b3595cee629ced644f061b024c3de803/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f4c696e6b6564696e2d3041363643323f7374796c653d666f722d7468652d6261646765266c6f676f3d6c696e6b6564696e" ></a>
+  
 <h3 align="center">⭐ Full Stack developer</h3>
   
 
