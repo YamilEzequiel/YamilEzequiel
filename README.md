@@ -14,6 +14,8 @@
   
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=yamilezequiel&label=Profile%20views&color=0e75b6&style=flat" alt="yamilezequiel" /> </p>
+<i>Counter start 17/05/2023<i>
+  
   
   ## Main current technologies
   
