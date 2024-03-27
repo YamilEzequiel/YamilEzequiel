@@ -2,10 +2,6 @@
   
 <h1 align="center">Hi 👋, I'm Yamil</h1>
   
-<a href="mailto:yamillazzari@gmail.com" target="_blank">
-  <img src="https://camo.githubusercontent.com/21d7bab0a1fb0c63ec8582fc5fbd17a6f8d83e69c2ae0aa3b239c15f146433a3/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f676d61696c2d4541343333353f7374796c653d666f722d7468652d6261646765266c6f676f3d676d61696c266c6f676f436f6c6f723d7768697465" >
-</a>
-  
 <h3 align="center">⭐ Full Stack developer</h3>
   
 
