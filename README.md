@@ -2,10 +2,6 @@
   
 <h1 align="center">Hi 👋, I'm Yamil</h1>
   
-<a href="https://www.linkedin.com/in/yamil-lazzari/" target="_blank">
-  <img src="https://camo.githubusercontent.com/9af358eb83716c4a0f6fe4030afe1b87b3595cee629ced644f061b024c3de803/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f4c696e6b6564696e2d3041363643323f7374796c653d666f722d7468652d6261646765266c6f676f3d6c696e6b6564696e" >
-</a>
-  
 <a href="mailto:yamillazzari@gmail.com" target="_blank">
   <img src="https://camo.githubusercontent.com/21d7bab0a1fb0c63ec8582fc5fbd17a6f8d83e69c2ae0aa3b239c15f146433a3/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f676d61696c2d4541343333353f7374796c653d666f722d7468652d6261646765266c6f676f3d676d61696c266c6f676f436f6c6f723d7768697465" >
 </a>
@@ -21,9 +17,7 @@
   
 <div align="center">
 👉 Angular - Material <br>
-👉 Vue 2/3 - Vuetify <br>
-👉 Node<br>
-👉 Nest<br>
+👉 Node / NestJS <br>
 👉 Ionic - Capacitor <br>
 </div>
   
