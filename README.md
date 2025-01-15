@@ -4,7 +4,7 @@
   
 <h3 align="center">💻 Full Stack Developer | 🚀 Especialista en Angular & NestJS</h3>
 
-<p align="center"> <img src="https://komarev.com/ghpvc/?username=yamilezequiel&label=Profile%20views&color=0e75b6&style=flat" alt="yamilezequiel" /><i>Counter start 17/05/2023</i> </p>
+<p align="center"> <img src="https://komarev.com/ghpvc/?username=yamilezequiel&label=Profile%20views&color=0e75b6&style=flat" alt="yamilezequiel" /><br><i>Counter start 17/05/2023</i> </p>
 
 
 <p align="left">
