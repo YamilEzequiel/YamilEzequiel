@@ -62,5 +62,11 @@ Apasionado desarrollador Full Stack con experiencia en la creación de aplicacio
 </a>
 </div>
 
+<p align="center">
+<a href="https://github.com/YamilEzequiel">
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=YamilEzequiel&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=YamilEzequiel&layout=compact&langs_count=8&theme=algolia"/>
+</a>
+</p>
 
 </div>
