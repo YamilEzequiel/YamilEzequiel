@@ -60,10 +60,6 @@
 
 ## 📈 Estadísticas GitHub
 
-<div style="display: flex; justify-content: center; gap: 20px; flex-wrap: wrap; margin: 20px 0;">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=yamilezequiel&theme=tokyonight" alt="yamilezequiel" />
-</div>
-
 <div style="display: flex; justify-content: center; gap: 10px; flex-wrap: wrap;">
   <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=YamilEzequiel&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=YamilEzequiel&layout=compact&langs_count=8&theme=tokyonight"/>
