@@ -3,14 +3,14 @@
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:1a1b27,100:00f5ff&height=220&section=header&text=Yamil%20Lazzari&fontSize=72&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=AI-Native%20Full%20Stack%20Engineer&descAlignY=58&descSize=18" alt="header" />
 
 <a href="https://github.com/YamilEzequiel">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&duration=2800&pause=800&color=00F5FF&center=true&vCenter=true&width=760&lines=%3E+initializing+neural+core...;%3E+ai-augmented+engineering+protocol+active;%3E+human+directs+%C2%B7+ai+executes+%C2%B7+10x+velocity;%3E+building+at+the+speed+of+thought_" alt="typing" />
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&duration=3000&pause=1000&color=00F5FF&center=true&vCenter=true&width=760&lines=%3E+ai-augmented+engineering+protocol+active;%3E+human+directs+%C2%B7+ai+executes;%3E+building+at+the+speed+of+thought_" alt="typing" />
 </a>
 
 <br/>
 
 <img src="https://komarev.com/ghpvc/?username=yamilezequiel&label=NEURAL+PINGS&color=00f5ff&style=for-the-badge&labelColor=0d1117" alt="profile views" />
-<img src="https://img.shields.io/badge/online_since-17.05.2023-00f5ff?style=for-the-badge&labelColor=0d1117" alt="since" />
 <img src="https://img.shields.io/badge/status-shipping-success?style=for-the-badge&labelColor=0d1117" alt="status" />
+<img src="https://img.shields.io/badge/location-Argentina-00f5ff?style=for-the-badge&labelColor=0d1117" alt="location" />
 
 </div>
 
@@ -19,13 +19,11 @@
 ```ts
 const yamil = {
   role:        "Full Stack Engineer",
-  location:    "Argentina · remote",
-  philosophy:  "Concepts > Code. Architecture > Hype.",
-  workflow:    "human directs · AI executes · always 10x",
-  obsessions:  ["Clean Architecture", "DX", "Shipping fast"],
-  ai_stack:    ["Claude", "Copilot", "Cursor", "v0", "ChatGPT"],
-  status:      "building the future, one prompt at a time",
-};
+  philosophy:  "Concepts > Code · Architecture > Hype",
+  stack:       ["TypeScript", "React", "Node", "Go"],
+  ai_toolkit:  ["Claude", "Copilot", "Cursor", "v0", "ChatGPT"],
+  focus:       ["Clean Architecture", "DX", "Shipping fast"],
+} as const;
 ```
 
 ---
@@ -68,6 +66,7 @@ const yamil = {
 
 <div align="center">
 
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/YamilEzequiel)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/yamil-lazzari/)
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:yamillazzari@gmail.com)
 
